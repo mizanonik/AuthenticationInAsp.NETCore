@@ -20521,8 +20521,18 @@
   "RootNamespace": "IdentityExample",
   "Documents": [
     {
+      "FilePath": "/home/onik/Desktop/Security/IdentityExample/Views/Home/VerifyEmail.cshtml",
+      "TargetPath": "Views\\Home\\VerifyEmail.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/onik/Desktop/Security/IdentityExample/Views/Home/Register.cshtml",
       "TargetPath": "Views\\Home\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/onik/Desktop/Security/IdentityExample/Views/Home/EmailVerification.cshtml",
+      "TargetPath": "Views\\Home\\EmailVerification.cshtml",
       "FileKind": "mvc"
     },
     {

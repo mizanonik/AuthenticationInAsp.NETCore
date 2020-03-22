@@ -57,3 +57,9 @@
 /home/onik/Desktop/Security/IdentityExample/obj/Debug/netcoreapp3.1/IdentityExample.dll
 /home/onik/Desktop/Security/IdentityExample/obj/Debug/netcoreapp3.1/IdentityExample.pdb
 /home/onik/Desktop/Security/IdentityExample/obj/Debug/netcoreapp3.1/IdentityExample.genruntimeconfig.cache
+/home/onik/Desktop/Security/IdentityExample/bin/Debug/netcoreapp3.1/MailKit.dll
+/home/onik/Desktop/Security/IdentityExample/bin/Debug/netcoreapp3.1/MimeKit.dll
+/home/onik/Desktop/Security/IdentityExample/bin/Debug/netcoreapp3.1/NETCore.MailKit.dll
+/home/onik/Desktop/Security/IdentityExample/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/home/onik/Desktop/Security/IdentityExample/obj/Debug/netcoreapp3.1/Razor/Views/Home/EmailVerification.cshtml.g.cs
+/home/onik/Desktop/Security/IdentityExample/obj/Debug/netcoreapp3.1/Razor/Views/Home/VerifyEmail.cshtml.g.cs
